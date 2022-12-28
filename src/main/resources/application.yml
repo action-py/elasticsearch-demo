@@ -1,0 +1,10 @@
+spring:
+  elasticsearch:
+    uris: 121.196.20.126:31647
+    username: elastic
+    password: Axz0ES2021
+#elasticsearch:
+#  rest:
+#    hosts: 121.196.20.126:31647
+#    username: elastic
+#    password: Axz0ES2021
