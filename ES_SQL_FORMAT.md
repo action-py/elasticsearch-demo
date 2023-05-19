@@ -1,3 +1,4 @@
+```
 GET _search
 {
   "query": {
@@ -1012,3 +1013,4 @@ POST /bidding_simple_list/_search
     }
   }
 }
+```
