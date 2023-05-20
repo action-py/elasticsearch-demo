@@ -1,3 +1,8 @@
+- ctrl+i 自动缩进
+- ctrl+enter 提交请求
+- down 打开自动补全菜单
+- enter或tab 选中项自动补全
+- esc 关闭补全菜单
 ```
 GET _search
 {
